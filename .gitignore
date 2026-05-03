@@ -1,0 +1,12 @@
+.venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Outputs / artifacts
+out/
+*.png
+*.json
+*_llm_raw.txt

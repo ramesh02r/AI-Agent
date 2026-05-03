@@ -1,0 +1,15 @@
+numpy
+pillow
+opencv-python
+requests
+pyautogui
+python-dotenv
+ 
+# Optional (for call_to_llm.py):
+# An OpenAI-compatible provider reachable at LLM_BASE_URL
+
+# Install ONE of the following OCR options:
+# paddleocr
+# easyocr
+# pytesseract  (also requires the Tesseract binary installed on your OS)
+
